@@ -1,0 +1,7 @@
+{
+  "projects": {
+    "default": "scientific-calculator-ceda5",
+    "calculator": "scientific-calculator-ceda5"
+  },
+  "targets": {}
+}
